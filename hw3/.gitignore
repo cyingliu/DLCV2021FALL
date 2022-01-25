@@ -1,0 +1,12 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+hw3_data/*
+__MACOSX/*
+__pycache__/*
+result/*
+vis_result/*
+pretrained_models/*
+log/*
+pbs.sh
+

@@ -1,0 +1,15 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specofied below
+
+hw2_data/*
+*png
+*jpg
+log/*
+p1_sample/*
+p2_sample/*
+result/*
+__pycache__/*
+Classifier.pth
+Classifier_oldformat.pth
+pbs.sh
+p1_output/*

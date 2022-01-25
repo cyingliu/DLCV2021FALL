@@ -1,0 +1,6 @@
+result/*
+output/*
+log/*
+hw4_data/*
+__pycache__/*
+pbs.sh

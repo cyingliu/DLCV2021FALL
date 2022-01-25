@@ -1,0 +1,14 @@
+#Ignore the dataset
+#IMPORTANT: make sure that your dataset is stored in a folder with the same as the one specified below
+
+hw1_data/*
+p1_data/*
+p2_data/*
+*png
+*jpg
+models_p1/*
+result/*
+pbs.sh*
+log/*
+__pycache__/*
+output_p2/*
